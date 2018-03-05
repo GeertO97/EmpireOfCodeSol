@@ -1,2 +1,2 @@
 # EmpireOfCodeSol
-Personal set of solutions to coding game Empire of Code
+Personal set of inefficient solutions to coding game Empire of Code
